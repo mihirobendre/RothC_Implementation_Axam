@@ -33,7 +33,7 @@ pd.set_option('display.max_colwidth', None) # Show full content in columns
 #print(df_15_30)
 
 # Column names
-soc_col = "Soil Organic Carbon                      (%)"
+soc_col = "Soil Organic Carbon (%)"
 bd_col = 'Bulk Density (g/cm3)'
 
 # SOC per area for 0-15cm layer of soil
