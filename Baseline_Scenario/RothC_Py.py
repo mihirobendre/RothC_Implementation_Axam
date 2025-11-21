@@ -286,6 +286,7 @@ depth = df_head.loc[0,"depth"]
 
 # set initial pool values 
 soc = 31.84
+#soc = 0
 SOC = [soc]
 
 #RPM = [0.0]
